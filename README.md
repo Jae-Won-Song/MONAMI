@@ -2,8 +2,14 @@
 
 ### 모나미 클론코딩
 
+#### Origin site
+- http://www.monami.com/index.php
+#### Demo site
+- https://monami-demo.netlify.app
+
 📆 기간
 2024.02.19 ~ 2021.02.25
+
 
 
 🔎 기능 설명
